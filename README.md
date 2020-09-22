@@ -3,7 +3,7 @@ learning about symbolics joshua and expert systems
 
 
 
-### Setting up List on Mac
+### Setting up Lisp on Mac
 
 These steps were pulled from https://lisp-lang.org/learn/getting-started/
 
